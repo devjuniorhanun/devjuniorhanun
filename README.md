@@ -7,6 +7,7 @@ Ola sou o Júnior, estou iniciando no mundo de desenvolvimento, Estou estudando 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flutter].https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 
 ## Details
 - 🔭 I'm working at Sisdeve - Sistemas em Desenvolvimento.
