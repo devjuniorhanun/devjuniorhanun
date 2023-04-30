@@ -10,23 +10,22 @@ Ola sou o Júnior, estou iniciando no mundo de desenvolvimento, Estou estudando 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Details
-- 🔭 I'm working at Sisdeve - Sistemas em Desenvolvimento.
-- 👀 I’m interested in {Full Stack & Full Cycle Developer | Backend | frontend | Mobile}.
-- 🌱 I'm improving my habillities with Docker, Laravel, Flutter.
-- 🌱 I’m currently learning { Dart, Docker, NodeJs }
-- 🤗 I like to experience new learnings and collaborate with knowledge sharing
-- 😄 Pronouns: He/Him.
+## Detalhes
+- 🔭 Estou em busca de uma nova oportunidade, como desenvolvedor.
+- 👀 Estou interessado {Full Stack & Full Cycle Developer | Backend | frontend | Mobile}.
+- 🌱 Estou melhorando minhas habilidades com Docker, Laravel, Flutter.
+- 🌱 No momento estou aprendendo {Docker }
+- 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjuniorhanun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuniorhanun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Meet my work on other networks..
+## Conheça meu trabalho em outras redes..
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/devjuniorhanun)
 [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='linkedin' height='30'>](https://www.facebook.com/devjuniorhanun)
 
-## Core Repositories
+## Principais Repositórios
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=TecnoLavoura&theme=radical)](https://github.com/devjuniorhanun/TecnoLavoura)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=BolaoCopa2022&theme=radical)](https://github.com/devjuniorhanun/BolaoCopa2022)  
