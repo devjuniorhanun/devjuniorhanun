@@ -73,9 +73,7 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 
 
 ## Principais Repositórios
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=TecnoLavoura&theme=radical)](https://github.com/devjuniorhanun/TecnoLavoura)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=BolaoCopa2022&theme=radical)](https://github.com/devjuniorhanun/BolaoCopa2022)  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=FormacaoGoDeveloper&theme=radical)](https://github.com/devjuniorhanun/FormacaoGoDeveloper)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=TecnoLavoura&theme=radical)](https://github.com/devjuniorhanun/TecnoLavoura) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=BolaoCopa2022&theme=radical)](https://github.com/devjuniorhanun/BolaoCopa2022)  
 
 
 
