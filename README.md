@@ -62,7 +62,7 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 ## Detalhes
 - 🔭 Estou em busca de uma nova oportunidade, como desenvolvedor.
 - 👀 Estou interessado {Full Stack & Full Cycle Developer | Backend | frontend | Mobile}.
-- 🌱 Estou melhorando minhas habilidades com Docker, Laravel, Flutter.
+- 🌱 Estou melhorando minhas habilidades com Docker, Python, Flutter.
 - 🌱 No momento estou aprendendo {Docker }
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com o compartilhamento de conhecimento
 
