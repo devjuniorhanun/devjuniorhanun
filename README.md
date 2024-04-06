@@ -38,6 +38,7 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
   <img align="center" alt="Next.js" height="30" width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 <img align="center" alt="Flutter" height="30" width="40" title="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  
 </div>
 
 ### Back-end
@@ -47,6 +48,7 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
   <img align="center" alt="LARAVEL" height="30" width="40" title="LARAVEL" src="https://laravel.com/img/logomark.min.svg">
    <img align="center" alt="GOLANG" height="30" width="40" title="GOLANG" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" title="PYTON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Nest Js" height="30" width="40" title="Nest Js" src="https://www.cdnlogo.com/logos/n/57/nestjs.svg">
 </div>
 
 ### Banco de Dados
@@ -57,6 +59,15 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
   <img align="center" alt="SQLite" height="30" width="40" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
+
+### Orm - Object-Relational Mapping
+
+<div style="display: inline_block">
+ <img align="center" alt="Eloquent ORM" height="30" width="40" title="Eloquent ORM" src="https://laravel.com/img/logomark.min.svg">
+  <img align="center" alt="Prisma ORM" height="30" width="40" title="Prisma ORM" src="https://www.cdnlogo.com/logos/p/59/prisma.svg">
+  <img align="center" alt="Type ORM" height="30" width="40" title="Type ORM" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png">
+</div>
+
 
 
 ## Detalhes
@@ -73,9 +84,8 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 
 
 ## Principais Repositórios
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveClinicas&theme=radical)](https://github.com/devjuniorhanun/SisdeveClinicas)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=FormacaoPythonDeveloper&theme=radical)](https://github.com/devjuniorhanun/FormacaoPythonDeveloper)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveCodeHomeBroker&theme=radical)](https://github.com/devjuniorhanun/SisdeveCodeHomeBroker) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveCodeCommerce&theme=radical)](https://github.com/devjuniorhanun/SisdeveCodeCommerce)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveClinicas&theme=radical)](https://github.com/devjuniorhanun/SisdeveClinicas)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=FormacaoPythonDeveloper&theme=radical)](https://github.com/devjuniorhanun/FormacaoPythonDeveloper)  
   
-
-
-
-
