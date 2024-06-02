@@ -84,8 +84,5 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 
 
 ## Principais Repositórios
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveCodeHomeBroker&theme=radical)](https://github.com/devjuniorhanun/SisdeveCodeHomeBroker) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveCodeCommerce&theme=radical)](https://github.com/devjuniorhanun/SisdeveCodeCommerce)  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=SisdeveClinicas&theme=radical)](https://github.com/devjuniorhanun/SisdeveClinicas)  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=FormacaoPythonDeveloper&theme=radical)](https://github.com/devjuniorhanun/FormacaoPythonDeveloper)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=GoExpert&theme=radical)](https://github.com/devjuniorhanun/GoExpert) 
   
