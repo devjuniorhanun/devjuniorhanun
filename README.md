@@ -85,5 +85,6 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 
 ## Principais Repositórios
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=GoExpert&theme=radical)](https://github.com/devjuniorhanun/GoExpert) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=HtmlCssJs&theme=radical)](https://github.com/devjuniorhanun/HtmlCssJs) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=ModeloApiGoLang&theme=radical)](https://github.com/devjuniorhanun/ModeloApiGoLang)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=HtmlCssJs&theme=radical)](https://github.com/devjuniorhanun/HtmlCssJs)
   
