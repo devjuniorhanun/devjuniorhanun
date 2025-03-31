@@ -84,7 +84,8 @@ Olá! Prazer em conhecê-lo. Atualmente estudo Flutter e Full Cycle. Minha paix�
 
 
 ## Principais Repositórios
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=GoExpert&theme=radical)](https://github.com/devjuniorhanun/GoExpert) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=ModeloApiGoLang&theme=radical)](https://github.com/devjuniorhanun/ModeloApiGoLang)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=HtmlCssJs&theme=radical)](https://github.com/devjuniorhanun/HtmlCssJs)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=ProjetoHairDay&theme=radical)](https://github.com/devjuniorhanun/ProjetoHairDay)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=FullCycleDockerContainers&theme=radical)](https://github.com/devjuniorhanun/FullCycleDockerContainers)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=DevLinks&theme=radical)](https://github.com/devjuniorhanun/DevLinks)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjuniorhanun&repo=ProjetoSistemaReembolso&theme=radical)](https://github.com/devjuniorhanun/ProjetoSistemaReembolso)
   
