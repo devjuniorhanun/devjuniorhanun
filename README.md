@@ -1,287 +1,185 @@
 # 👋 Olá, eu sou Winston Hanun Júnior
 
-### 🚀 Full Cycle Developer | Backend Go | Laravel | React | Docker | DevOps | Cybersecurity
+### Backend Developer | PHP/Laravel • Go • APIs REST • Docker • MySQL/PostgreSQL
 
-Sou um Desenvolvedor de software focado na construção de **APIs, Aplicações Aeb e Sistemas Escaláveis**, com experiência prática em backend, frontend, containers, bancos de dados e infraestrutura.
+Desenvolvedor de software com foco em **backend, APIs e sistemas de negócio**, utilizando principalmente **PHP/Laravel e Go**, além de Docker, bancos relacionais e Linux.
 
-Meu principal foco atualmente está no desenvolvimento **Backend com Golang**, sem deixar de atuar no ecossistema Full Cycle com **Laravel, React, Python e Docker**.
+Tenho especial interesse em transformar **problemas reais de negócio em software**, trabalhando desde a modelagem e desenvolvimento da API até banco de dados, containerização e infraestrutura da aplicação.
 
-Gosto de transformar problemas reais em soluções de software bem estruturadas, buscando aplicar princípios como **Clean Architecture, SOLID, boas práticas de Engenharia, Segurança e Automação**.
-
-> 💡 **Meu objetivo profissional:** atuar em equipes de tecnologia onde eu possa contribuir não so com Códigos mais sim ajudar com desenvolvimento de Soluções com o foco em. Arquitetura, Backend, APIs, DevOps e Evolução contínua dos produtos.
+Atualmente, estou aprofundando meus conhecimentos em **Go, sistemas distribuídos, Cloud, CI/CD, Kubernetes e observabilidade**, com o objetivo de evoluir profissionalmente em **Backend Engineering e Platform Engineering/SRE**.
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🚀 Projeto em destaque
 
-* 🔭 Atualmente buscando **Uma novas oportunidades de Crescimento Profissional**
-* 🚀 Foco profissional em **Backend / Full Cycle**
-* 🐹 Desenvolvimento de APIs e sistemas com **Golang**
-* 🐘 Desenvolvimento de aplicações com **Laravel / PHP**
-* ⚛️ Interfaces modernas utilizando **React**
-* 🐳 Containerização e ambientes utilizando **Docker**
-* 🐧 Experiência com ambientes **Linux**
-* 🗄️ Desenvolvimento utilizando **MySQL e PostgreSQL**
-* 🔐 Interesse e atuação em **Cybersecurity / Blue Team**
-* ⚙️ Interesse em **DevOps, CI/CD, automação e infraestrutura**
-* 🌱 Sempre Desvendando novas ferramentas, Arquiteturas e Práticas de engenharia de software
+### 🌱 [Sisdeve Agro](https://github.com/devjuniorhanun/sisdeve-agro)
+
+ERP voltado à **gestão de operações agrícolas**, desenvolvido a partir de necessidades reais do agronegócio.
+
+O projeto reúne backend, infraestrutura e regras de negócio envolvendo diferentes áreas de uma operação agrícola.
+
+**Stack atual**
+
+`Laravel 13` • `PHP` • `MySQL` • `Redis` • `Docker` • `Nginx` • `REST API`
+
+**Infraestrutura**
+
+- Docker Compose
+- Nginx como gateway HTTPS
+- API Laravel/PHP-FPM
+- MySQL
+- Redis
+- redes Docker pública/privada
+- backup automatizado do banco
+- serviços isolados
+
+**Domínios trabalhados**
+
+- propriedades e produtores
+- safras
+- produtos
+- fornecedores
+- defensivos agrícolas
+- frotas
+- combustíveis
+- estoques
+- colheitas
+- financeiro
+- armazéns
+- operações agrícolas
+
+➡️ **[Conheça o projeto Sisdeve Agro](https://github.com/devjuniorhanun/sisdeve-agro)**
 
 ---
 
-# 🛠️ Stack Tecnológica
+## 🧑‍💻 Tecnologias
 
 ### Backend
 
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+`PHP` `Laravel` `Go` `REST APIs`
 
-### Frontend
+### Bancos de dados
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+`MySQL` `PostgreSQL` `Redis`
 
-### APIs & Arquitetura
+### Infraestrutura
 
-* REST APIs
-* Clean Architecture
-* SOLID
-* Design Patterns
-* DDD
-* JWT / Authentication
-* Multi-tenant Architecture
-* MVC
-* Integração Frontend / Backend
-* Microservices
+`Docker` `Docker Compose` `Linux` `Nginx` `Git` `GitHub`
 
-### Banco de Dados
+### Frontend complementar
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### DevOps & Infraestrutura
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### Segurança
-
-* Cybersecurity
-* Blue Team
-* Secure Development
-* Authentication & Authorization
-* JWT
-* Linux Security
-* API Security
-* OWASP
-* Boas práticas de proteção de aplicações
+`React` `TypeScript` `JavaScript`
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🏗️ Engenharia de Software
 
-## 🌱 Sisdeve — Agro
+Busco desenvolver aplicações pensando além do CRUD:
 
-Sistema voltado para **gestão agrícola**, desenvolvido para transformar processos do agronegócio em soluções digitais.
+- separação de responsabilidades
+- APIs bem estruturadas
+- validação e tratamento de erros
+- autenticação e autorização
+- modelagem de banco de dados
+- testes automatizados
+- segurança de APIs
+- containerização
+- documentação
+- manutenção e evolução do software
 
-### Tecnologias
+Meu objetivo é construir sistemas que sejam:
 
-`Laravel` `React` `Docker` `MySQL` `REST API`
-
-### Conceitos aplicados
-
-* Arquitetura de software
-* APIs REST
-* Autenticação
-* Gestão de usuários
-* Multi-tenancy
-* Gestão agrícola
-* Integração Frontend / Backend
-* Containerização
-
-🔗 **Projeto:**
-https://github.com/devjuniorhanun/SisdeveAgroBack
+**legíveis → testáveis → seguros → observáveis → fáceis de manter**
 
 ---
 
-## 🐹 Backend com Golang
+## 🐹 Evolução em Go
 
-Projetos desenvolvidos utilizando Go com foco em construção de APIs e aplicações backend.
+Go faz parte da minha especialização profissional em backend.
 
-### Principais conceitos
-
-* Clean Architecture
-* SOLID
-* REST API
-* JWT
-* Middleware
-* Dependency Injection
-* Repository Pattern
-* Use Cases
-* SQL
-* MySQL / PostgreSQL
-* Docker
-* Testes
-
-🔗 **GitHub:**
-https://github.com/devjuniorhanun
-
----
-
-## 🐘 Laravel + React
-
-Desenvolvimento de aplicações web utilizando **Laravel no backend e React no frontend**, explorando integração de APIs, autenticação e arquitetura moderna.
-
-### Tecnologias
-
-`Laravel` `PHP` `React` `Vite` `Docker` `MySQL`
-
----
-
-## 🐳 Docker & DevOps
-
-Projetos e ambientes utilizando containers para padronização e automação do desenvolvimento.
-
-### Experiência prática
-
-* Docker
-* Docker Compose
-* Nginx
-* SSL/HTTPS
-* Linux
-* ambientes de desenvolvimento
-* integração Backend / Frontend
-* infraestrutura de aplicações
-
----
-
-# 🏗️ Como eu penso software
-
-Para mim, desenvolver software não significa apenas escrever código.
-
-Busco considerar:
+Meu roadmap atual está direcionado para:
 
 ```text
-                 ┌─────────────────────┐
-                 │       Problema      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │     Arquitetura     │
-                 └──────────┬──────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-        ┌─────────┐    ┌─────────┐    ┌─────────┐
-        │ Backend │    │Frontend │    │Database │
-        └────┬────┘    └────┬────┘    └────┬────┘
-             │              │              │
-             └──────────────┼──────────────┘
-                            ▼
-                   ┌────────────────┐
-                   │    Docker      │
-                   └───────┬────────┘
-                           ▼
-                   ┌────────────────┐
-                   │   Deploy/CI    │
-                   └───────┬────────┘
-                           ▼
-                   ┌────────────────┐
-                   │    Software    │
-                   │   funcionando  │
-                   └────────────────┘
+Go
+ │
+ ├── APIs REST
+ ├── PostgreSQL
+ ├── Redis
+ ├── Testes
+ ├── Clean Architecture
+ │
+ ├── Sistemas Distribuídos
+ │   ├── gRPC
+ │   ├── Mensageria
+ │   └── Event-driven architecture
+ │
+ └── Cloud Native
+     ├── Docker
+     ├── Kubernetes
+     ├── CI/CD
+     ├── Observabilidade
+     └── Cloud
 ```
 
-Meu objetivo é construir aplicações que sejam:
-
-**legíveis → testáveis → seguras → escaláveis → fáceis de manter.**
+O objetivo é transformar esse aprendizado em **projetos públicos e executáveis**, documentando a evolução diretamente neste GitHub.
 
 ---
 
-# 📊 GitHub
+## 🌾 Tecnologia + Agronegócio
+
+Uma das minhas principais áreas de conhecimento de negócio é o **agronegócio**.
+
+Tenho trabalhado com problemas envolvendo gestão agrícola, estoques, defensivos, combustíveis, frotas, colheitas, armazéns, pesagem, financeiro e outras operações do setor.
+
+Isso me permite trabalhar não somente na implementação técnica, mas também na compreensão e modelagem das **regras de negócio**.
+
+---
+
+## 🎯 Objetivo profissional
+
+Atualmente busco oportunidades principalmente como:
+
+**Backend Developer • PHP/Laravel Developer • Go Developer • Software Engineer**
+
+Também estou construindo conhecimento para evoluir futuramente em:
+
+**Backend Engineering → Distributed Systems → Cloud → Platform Engineering / SRE**
+
+---
+
+## 📚 Atualmente estudando
+
+**Backend**
+
+Go • APIs • Arquitetura de Software • Testes
+
+**Infraestrutura**
+
+Docker • Linux • CI/CD • Cloud • Kubernetes
+
+**Engenharia**
+
+Clean Architecture • SOLID • Sistemas Distribuídos • Observabilidade
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjuniorhanun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuniorhanun&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devjuniorhanun&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuniorhanun&layout=compact&langs_count=8"/>
 </p>
 
 ---
 
-# 🔥 Atualmente
+## 🤝 Contato
 
-```text
-Backend
-████████████████████████████████████████  Go / Laravel
+Estou disponível para **oportunidades profissionais, networking e colaboração em projetos de software**.
 
-Frontend
-██████████████████████████████████       React / TypeScript
-
-DevOps
-████████████████████████████████         Docker / Linux / CI/CD
-
-Database
-████████████████████████████████         MySQL / PostgreSQL / Redis
-
-Security
-██████████████████████████████           Cybersecurity / Blue Team
-```
+📧 **E-mail:** [devjuniorhanun@gmail.com](mailto:devjuniorhanun@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/juniorhanun](https://linkedin.com/in/juniorhanun)  
+🐙 **GitHub:** [github.com/devjuniorhanun](https://github.com/devjuniorhanun)
 
 ---
 
-# 🎯 Objetivo profissional
-
-Estou aberto a oportunidades como:
-
-* **Backend Developer**
-* **Golang Developer**
-* **Full Stack Developer**
-* **Software Engineer**
-* **Backend Engineer**
-* **Laravel / PHP Developer**
-* **DevOps / Backend Developer**
-
-Tenho especial interesse em oportunidades que envolvam:
-
-`Go` • `Laravel` • `React` • `Docker` • `Linux` • `PostgreSQL` • `MySQL` • `DevOps` • `Cloud` • `Cybersecurity`
-
----
-
-# 🤝 Vamos conversar?
-
-Estou aberto a oportunidades profissionais, projetos, networking e colaboração em tecnologia.
-
-### 📫 Contato
-
-📧 **Email:** [devjuniorhanun@gmail.com](mailto:devjuniorhanun@gmail.com)
-
-💼 **LinkedIn:**
-https://linkedin.com/in/juniorhanun
-
-🐙 **GitHub:**
-https://github.com/devjuniorhanun
-
----
-
-### 💬 "Não quero apenas escrever código. Quero construir soluções."
-
----
-
-⭐ Se algum dos meus projetos foi útil para você, considere deixar uma estrela.
-
-🤝 Se você está recrutando desenvolvedores ou trabalhando em um projeto interessante, entre em contato.
+> **Construindo software para resolver problemas reais enquanto evoluo continuamente como engenheiro de software.**
